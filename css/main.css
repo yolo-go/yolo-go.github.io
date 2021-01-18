@@ -10,7 +10,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 	font-family: "Raleway";
 }
 
-/*     динамика, выполненна на стилях CSS3       <!-----      23.3         ----->   */
+/*     Г¤ГЁГ­Г Г¬ГЁГЄГ , ГўГ»ГЇГ®Г«Г­ГҐГ­Г­Г  Г­Г  Г±ГІГЁГ«ГїГµ CSS3       <!-----      23.3         ----->   */
 @keyframes swing {
   15% {
     transform: translateX(5px);
@@ -40,7 +40,7 @@ html,h1,h2,h3,h4,h5,h6,a{
   -webkit-transform: translateX(5px);
   transform: translateY(-5px);
 }
-/*     /динамика, выполненна на стилях CSS3       <!-----    /  23.3         ----->   */
+/*     /Г¤ГЁГ­Г Г¬ГЁГЄГ , ГўГ»ГЇГ®Г«Г­ГҐГ­Г­Г  Г­Г  Г±ГІГЁГ«ГїГµ CSS3       <!-----    /  23.3         ----->   */
 
 
 .navbar{
@@ -62,6 +62,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 }
 .navbar-toggler{
   background:#fff !important;
+  position: center;	
 }
 .navbar-collapse{
  justify-content: flex-end;
