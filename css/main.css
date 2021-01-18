@@ -62,7 +62,9 @@ html,h1,h2,h3,h4,h5,h6,a{
 }
 .navbar-toggler{
   background:#fff !important;
-  margin: 5px;	
+}
+span {
+	margin-top: 5px;
 }
 .navbar-collapse{
  justify-content: flex-end;
